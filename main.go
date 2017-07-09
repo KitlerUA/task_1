@@ -2,9 +2,9 @@
 package main
 
 import (
-	"Task_1_split_files/algsolvers"
-	"Task_1_split_files/arrreader"
 	"fmt"
+	"task_1/algsolvers"
+	"task_1/arrreader"
 )
 
 func main() {
