@@ -3,8 +3,9 @@ package main
 
 import (
 	"fmt"
-	"task_1/algsolvers"
-	"task_1/arrreader"
+
+	"github.com/KitlerUA/task_1/algsolvers"
+	"github.com/KitlerUA/task_1/arrreader"
 )
 
 func main() {
